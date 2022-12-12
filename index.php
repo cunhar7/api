@@ -1,7 +1,7 @@
 <?php
 
 $endpoint = 'https://sandbox.api.pagseguro.com/orders';
-$token = '5565734313EF41E4BCBB992101094881';
+$token = '--';
 
 $body =
   [
